@@ -1,7 +1,5 @@
 
 # ALEX: A Light Editing-knowledge Extractor  
-**Repository for ACL Submission: ALEX - Hierarchical Memory Compression for Efficient Knowledge Editing in LLMs**  
-
 
 ## Overview  
 ALEX is an open-source framework designed to address the challenges of **factual obsolescence** and **scalability** in large language models (LLMs), particularly for multi-hop question answering (MQA). By integrating **hierarchical memory compression** and **dynamic retrieval arbitration**, ALEX achieves efficient knowledge editing with minimal computational overhead. This repository contains the official implementation of the ALEX framework, along with experimental datasets and evaluation scripts.  
